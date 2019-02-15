@@ -1,0 +1,3 @@
+com\mgp\GateWayItem.class
+com\mgp\usermanager\beans\User.class
+com\mgp\usermanager\filter\MyZuullFilter.class
